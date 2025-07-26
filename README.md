@@ -31,12 +31,16 @@
 ---
 
 ## 📌 **Pinned Repositories**
-Here are some of my favorite projects:
+Here are my projects:
 
-- [**Titan-Health App**](https://github.com/dhanukiru/kidlo) - A web project built with HTML.
-- [**git**](https://github.com/dhanukiru/docker) - Dockerfile-based project.
-- [**Job_Recommendation_System**](https://github.com/dhanukiru/Book_Recommendation_System) - AI-based project using Jupyter Notebook.
-- [**attendance Management System**](https://github.com/dhanukiru/eduserve) - Python-based application.
+- [**MERN**](https://github.com/dhanukiru05/MERN) - A full stack web app built using MongoDB, Express, React, and Node.js.
+- [**Plant Disease Detection**](https://github.com/dhanukiru05/Plant-Disease-Detection) - A machine learning project that detects plant diseases from leaf images.
+- [**Job Recommendation System**](https://github.com/dhanukiru05/Job-Recommendation-System) - A smart system that suggests jobs based on user skills and preferences.
+- [**Water Crisis Analysis**](https://github.com/dhanukiru05/Water-Crisis-Analysis) - A data visualization project using Tableau to explore global water scarcity.
+- [**Titan Health App**](https://github.com/dhanukiru05/Titan-Health-App) - A health tracking app for workouts, diet, hydration, and overall wellness.
+- [**Tast Manager**](https://github.com/dhanukiru05/Task-Manager) - simple CRUD app to manage daily tasks with a clean, responsive interface.
+- [**Myself**](https://github.com/dhanukiru05/dhanukiru05) - A passionate developer exploring full stack development, data science, and real-world problem solving.
+
 
 ---
 ## 🌱 **Connect With Me**
